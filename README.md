@@ -1,5 +1,7 @@
 # event
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A repository for event information related to Code for Fukui.
 
 ## Features
